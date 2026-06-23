@@ -31,3 +31,5 @@ PCB:
 - 1 0.91" 128x32 OLED Display
 - 1 XIAO RP2040 Microcontroller
 - 1 Case, 2 Printed Parts
+
+Appick was created during Hack Club's Stardance challenge.
