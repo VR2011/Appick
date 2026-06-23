@@ -8,7 +8,8 @@
         "bootmagic": true,
         "extrakey": true,
         "mousekey": true,
-        "nkro": true
+        "nkro": true,
+        "oled": true
     },
     "diode_direction": "COL2ROW",
     "matrix_pins": {
@@ -16,6 +17,13 @@
             ["GP3", "GP4"],
             ["GP2", "GP1"]
         ]
+    },
+    "ws2812": {},
+
+    "i2c": {
+        "driver": "vendor",
+        "sda_pin": "GP6",
+        "scl_pin": "GP7"
     },
     "usb": {
         "device_version": "1.0.0",
