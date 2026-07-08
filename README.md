@@ -1,14 +1,8 @@
 ![Appick](https://i.ibb.co/tMDNhFws/Untitled-drawing-1.png)
 
-Appick is a simple four key macropad that allows you to launch any 4 apps you'd like! It also comes with an OLED display to tell what you're launching. 
+Appick is a 4-key macropad that allows you to launch an app from a click of a button! It's loaded to launch Brave, Spotify, Steam, and Discord. It also features an OLED display that displays what app is being launched!
 
-The firmware is preloaded to launch the following apps:
-
-Brave Discord  
-Steam Spotify
-
-**NOTICE!!!!!**  
-You will need to install AutoHotKey for this to work. Unfortunately, this only works on Windows. Once you install AHK, download the script I have in the repository and replace the path placeholders with your path to the application.
+**You'll need to install AutoHotkey for this; install it [here](https://www.autohotkey.com/).** When Autohotkey is setup, download the AHK script from the repository and edit it as instructed. 
 
 # Screenshots
 Appick 3D Model:
