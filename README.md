@@ -22,6 +22,8 @@ Schematic:
 PCB:
 
 ![PCB](https://i.ibb.co/HDR48Sx8/Screenshot-2026-06-23-114700.png)
+![Render Top](https://i.ibb.co/FbhwKSBQ/Screenshot-2026-07-08-141128.png)
+![Render Bottom](https://i.ibb.co/JWvHGffH/Screenshot-2026-07-08-141136.png)
 
 # Bill of Materials
 - 4 Cherry MX Switches
